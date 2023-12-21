@@ -7,4 +7,4 @@ Make sure you adjust your computers date and time to after the start of the lice
 
 Download squish-7.2.1-qt512x-linux64.run from https://account.qt.io/s/downloads.
 
-Compile openpilot and use selfdrive/ui/ui as the AUT. Then press run test suite.
+Compile openpilot and use selfdrive/ui/ui as the AUT. Import this test suite and it.
