@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VerificationPoint type="Screenshot" version="4">
+    <Description/>
+    <Verification object="o_PairingPopup" options="12" type="PNG">
+        iVBORw0KGgoAAAANSUhEUgAAAGQAAAAeCAMAAADthUvBAAAAA1BMVEXg4ODw7PzuAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAGklEQVRIie3BAQ0AAADCoPdPbQ43oAAAgG8DC9YAAVdy/doAAAAASUVORK5CYII=
+        <Mask/>
+    </Verification>
+</VerificationPoint>
